@@ -1,0 +1,4 @@
+Panayiotis Nicolaou https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/
+Web Dev Simplified  https://www.youtube.com/watch?v=QTcIXok9wNY&ab_channel=WebDevSimplified
+CodeWithHarry       https://www.youtube.com/watch?v=2ZDnw6ifdSI&ab_channel=CodeWithHarry
+
